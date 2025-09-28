@@ -1,0 +1,53 @@
+# Ngrok Setup Instructions
+
+## Prerequisites
+1. Install ngrok: https://ngrok.com/download
+2. Create a free ngrok account: https://dashboard.ngrok.com/signup
+3. Get your authtoken from: https://dashboard.ngrok.com/get-started/your-authtoken
+
+## Setup Steps
+
+### 1. Install ngrok
+```bash
+# Download and extract ngrok
+# Follow instructions at https://ngrok.com/download for your OS
+```
+
+### 2. Authenticate ngrok
+```bash
+ngrok config add-authtoken YOUR_AUTHTOKEN_HERE
+```
+
+### 3. Start the Streamlit app
+```bash
+# Navigate to the project directory
+cd Heart_Disease_Project
+
+# Install requirements
+pip install -r requirements.txt
+
+# Start Streamlit app
+streamlit run ui/app.py --server.port 8501
+```
+
+### 4. Expose the app with ngrok
+```bash
+# In a new terminal, run:
+ngrok http 8501
+```
+
+### 5. Access your app
+- Copy the HTTPS URL from ngrok output (e.g., https://abc123.ngrok.io)
+- Share this URL to make your app publicly accessible
+- The URL will be active as long as ngrok is running
+
+## Notes
+- Free ngrok URLs expire after 2 hours
+- For permanent URLs, consider ngrok paid plans
+- Always test your app locally before deploying
+- Keep your ngrok authtoken secure
+
+## Troubleshooting
+- If port 8501 is busy, try a different port: `streamlit run ui/app.py --server.port 8502`
+- Update the ngrok command accordingly: `ngrok http 8502`
+- Check firewall settings if connection issues persist

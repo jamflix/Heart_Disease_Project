@@ -1,0 +1,28 @@
+Heart Disease Prediction - Model Evaluation Metrics
+==================================================
+
+Dataset Information:
+- Total samples: 920
+- Features: 13
+- Target classes: 2 (No Heart Disease, Heart Disease)
+- Train/Test split: 80/20
+
+Best Model Performance:
+- Model: Random Forest (Tuned)
+- Accuracy: 0.832
+- F1-Score: 0.854
+- Precision: 0.820
+- Recall: 0.892
+- AUC: 0.824
+
+Selected Features:
+1. cp
+2. chol
+3. thalch
+4. age
+5. oldpeak
+6. exang
+7. trestbps
+8. thal
+9. sex
+10. restecg
